@@ -5,6 +5,8 @@
  * Description: Load the php files in the '/ wp-content / myplugin' directory. In that case, the thing whose file name begins with an underscore (example: _example.php) is not included.
  * Version: 1.0.0
  * Author: Rocket Martue
+ * Text Domain: load-myplugin-files
+ * Domain Path: /languages/
  * Created: April 14, 2016
  * Modified: September 16, 2019
  * License: GPLv2 or later

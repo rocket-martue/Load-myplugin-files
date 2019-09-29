@@ -1,0 +1,68 @@
+# Copyright (C) 2019 Load myplugin files
+# This file is distributed under the same license as the Load myplugin files package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Load myplugin files 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/load-myplugin-"
+"files\n"
+"POT-Creation-Date: 2019-09-16 01:56:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:77
+msgid "More information about %s"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:213
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:215
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:217
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:223
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Load myplugin files"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/rocket-martue/Load-myplugin-files"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Load the php files in the '/ wp-content / myplugin' directory. In that case, "
+"the thing whose file name begins with an underscore (example: _example.php) "
+"is not included."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rocket Martue"
+msgstr ""
