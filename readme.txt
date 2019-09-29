@@ -5,7 +5,7 @@ Requires at least: 4.6
 
 == Description ==
 
-Load the php files in the '/ wp-content / myplugin' directory. In that case, the thing whose file name begins with an underscore (example: _example.php) is not included.
+Load the php files in the '/wp-content/myplugin' directory. In that case, the thing whose file name begins with an underscore (example: _example.php) is not included.
 
 
 == Installation ==
