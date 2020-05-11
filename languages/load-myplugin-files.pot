@@ -58,7 +58,7 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"Load the php files in the '/ wp-content / myplugin' directory. In that case, "
+"Load the php files in the '/wp-content/myplugin' directory. In that case, "
 "the thing whose file name begins with an underscore (example: _example.php) "
 "is not included."
 msgstr ""

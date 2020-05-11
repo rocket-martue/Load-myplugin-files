@@ -2,13 +2,13 @@
 /**
  * Plugin name: Load myplugin files
  * Plugin URI: https://github.com/rocket-martue/Load-myplugin-files
- * Description: Load the php files in the '/ wp-content / myplugin' directory. In that case, the thing whose file name begins with an underscore (example: _example.php) is not included.
- * Version: 1.0.0
+ * Description: Load the php files in the '/wp-content/myplugin' directory. In that case, the thing whose file name begins with an underscore (example: _example.php) is not included.
+ * Version: 1.0.1
  * Author: Rocket Martue
  * Text Domain: load-myplugin-files
  * Domain Path: /languages/
  * Created: April 14, 2016
- * Modified: September 16, 2019
+ * Modified: May 11, 2020
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
